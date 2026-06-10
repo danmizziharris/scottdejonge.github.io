@@ -59,14 +59,14 @@ Adjacent headings of decending levels remove the `margin-top` from the younger s
 
 ### Unordered List
 
-1. This is a unordered list.
-2. Unordered lists can also have multiple levels:
-  1. This is a second-level unordered list item
+* This is a unordered list.
+* Unordered lists can also have multiple levels:
+  * This is a second-level unordered list item
 
 ```markdown
-1. This is a unordered list.
-2. Unordered lists can also have multiple levels:
-  1. This is a second-level unordered list item
+* This is a unordered list.
+* Unordered lists can also have multiple levels:
+  * This is a second-level unordered list item
 ```
 
 ### Blockquote
